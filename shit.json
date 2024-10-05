@@ -1,13 +1,15 @@
 {
-  "groupName": "test",
+  "groupName": "danmachi s4",
   "content": [
-    "1",
-    "2",
-    "3"
+    "ep 1",
+    "ep 2",
+    "ep 3",
+    "ep 4"
   ],
   "videoURLs": [
-    "link here",
-    "link here",
-    "link here"
+    "https://www119.anzeat.pro/streamhls/4b1a2fc93ae080bc0f5cd8fa730b9f4c/ep.1.1709214193.720.m3u8",
+    "https://www118.anzeat.pro/streamhls/4b1a2fc93ae080bc0f5cd8fa730b9f4c/ep.2.1709211200.720.m3u8",
+    "https://www117.anzeat.pro/streamhls/4b1a2fc93ae080bc0f5cd8fa730b9f4c/ep.3.1709218925.720.m3u8",
+    "https://www112.anzeat.pro/streamhls/4b1a2fc93ae080bc0f5cd8fa730b9f4c/ep.4.1709215047.720.m3u8"
   ]
 }
