@@ -1,0 +1,29 @@
+{
+  "groupName": "danmachi s4 full",
+  "content": [
+    "ep 1",
+    "ep 2",
+    "ep 3",
+    "ep 4",
+    "ep 5",
+    "ep 6",
+    "ep 7",
+    "ep 8",
+    "ep 9",
+    "ep 10",
+    "ep 11"
+  ],
+  "videoURLs": [
+    "https://www119.anzeat.pro/streamhls/4b1a2fc93ae080bc0f5cd8fa730b9f4c/ep.1.1709214193.720.m3u8",
+    "https://www118.anzeat.pro/streamhls/4b1a2fc93ae080bc0f5cd8fa730b9f4c/ep.2.1709211200.720.m3u8",
+    "https://www117.anzeat.pro/streamhls/4b1a2fc93ae080bc0f5cd8fa730b9f4c/ep.3.1709218925.720.m3u8",
+    "https://www112.anzeat.pro/streamhls/4b1a2fc93ae080bc0f5cd8fa730b9f4c/ep.4.1709215047.720.m3u8",
+    "https://www116.anzeat.pro/streamhls/4b1a2fc93ae080bc0f5cd8fa730b9f4c/ep.5.1709218659.720.m3u8",
+    "https://www113.anzeat.pro/streamhls/4b1a2fc93ae080bc0f5cd8fa730b9f4c/ep.6.1709224572.720.m3u8",
+    "https://www117.anzeat.pro/streamhls/4b1a2fc93ae080bc0f5cd8fa730b9f4c/ep.7.1709215722.720.m3u8",
+    "https://www087.anzeat.pro/streamhls/4b1a2fc93ae080bc0f5cd8fa730b9f4c/ep.8.1709042205.720.m3u8",
+    "https://www031.anzeat.pro/streamhls/4b1a2fc93ae080bc0f5cd8fa730b9f4c/ep.9.1713855311.720.m3u8",
+    "https://www112.anzeat.pro/streamhls/4b1a2fc93ae080bc0f5cd8fa730b9f4c/ep.10.1709209701.720.m3u8",
+    "https://www114.anzeat.pro/streamhls/4b1a2fc93ae080bc0f5cd8fa730b9f4c/ep.11.1709213807.720.m3u8"
+  ]
+}
